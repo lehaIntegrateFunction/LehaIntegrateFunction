@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="bannerforgithub.jpg" alt="Ferrari Banner" width="100%" />
+  <img src="banner.jpg" alt="Ferrari Banner" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://t.me/ТВОЙ_НИК"><img src="https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:ТВОЙ_EMAIL@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
 
 ---
 
@@ -26,7 +24,12 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="bd54b0d61c8012ca4379fd512f3cf82c.jpg" width="100%" style="border-radius: 10px;" alt="Reze" />
+      <img src="photo.jpg" width="100%" style="border-radius: 10px;" alt="Reze" />
     </td>
   </tr>
 </table>
+
+<br />
+<p align="center">
+  <img src="gorizont.jpg" alt="Footer Line" width="100%" height="20px" />
+</p>
