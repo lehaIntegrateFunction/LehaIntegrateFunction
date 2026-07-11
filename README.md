@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/ТВОЙ_НИК"><img src="https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:ТВОЙ_EMAIL@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/rootracer"><img src="https://img.shields.io/badge/TELEGRAM-18181b?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:qwer290310@gmail.com"><img src="https://img.shields.io/badge/GMAIL-18181b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
