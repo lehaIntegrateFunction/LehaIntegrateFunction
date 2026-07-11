@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Ferrari Banner" width="100%" />
+  <img src="video.gif" alt="Ferrari Banner" width="100%" />
 </p>
 
 <p align="center">
