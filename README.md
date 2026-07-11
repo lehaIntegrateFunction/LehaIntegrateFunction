@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lehaIntegrateFunction/lehaIntegrateFunction/main/bannerforhithub.jpg" alt="Ferrari Banner" width="100%" />
+  <img src="bannerforgithub.jpg" alt="Ferrari Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
       
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/lehaIntegrateFunction/lehaIntegrateFunction/main/bd54b0d61c8012ca4379fd512f3cf82c.jpg" width="100%" style="border-radius: 10px;" alt="Reze" />
+      <img src="bd54b0d61c8012ca4379fd512f3cf82c.jpg" width="100%" style="border-radius: 10px;" alt="Reze" />
     </td>
   </tr>
 </table>
