@@ -24,7 +24,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="photo.jpg" width="100%" style="border-radius: 10px;" alt="Reze" />
+      <img src="photo.png" width="100%" style="border-radius: 10px;" alt="Reze" />
     </td>
   </tr>
 </table>
