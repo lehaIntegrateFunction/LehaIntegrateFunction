@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="8256713558_b2a38874cf40f18db1b5c4b83e0070e5.gif.gif" alt="Ferrari Banner" width="100%" />
+  <img src="feitan.gif" alt="Ferrari Banner" width="100%" />
 </p>
 
 <p align="center">
