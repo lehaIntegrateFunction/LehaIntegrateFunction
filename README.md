@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="animationgh.gif" alt="Ferrari Banner" width="100%" />
+  <img src="animationgh.gif" width="100%" height="160px" style="object-fit: cover;" />
 </p>
 
 <p align="center">
