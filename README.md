@@ -12,15 +12,14 @@
 <table>
   <tr>
     <td width="65%" valign="top">
-      <h3>Привет! Я Лёха 👋</h3>
-      <p><b>Frontend / Fullstack Разработчик</b></p>
-      <p>Добро пожаловать в мой профиль! Я увлекаюсь веб-разработкой, пишу код и изучаю современные технологии, чтобы создавать быстрые и красивые интерфейсы.</p>
-      <p><b>Мой стек технологий:</b></p>
+      <h3>こんにちは、レハです！👋</h3>
+      <p><b>サイバーセキュリティを学ぶ若き学生(class 2027)</b></p>
+      <p>私のプロフィールへようこそ。ここでは、ITやサイバーセキュリティの様々な分野を一緒に探求していきます。.</p>
+      <p><b>私の技術スタック：</b></p>
       <ul>
-        <li><b>Languages:</b> JavaScript, TypeScript</li>
-        <li><b>Frameworks:</b> React, Next.js</li>
-        <li><b>Styling:</b> Tailwind CSS, CSS3</li>
-        <li><b>Tools:</b> Git, GitHub, VS Code</li>
+        <li><b>Languages:</b> С++ | Python | Bash (for automation) </li>
+        <li><b>OS:</b> Kali linux | Mint | Ubuntu | windows 10 and 11</li>
+        <li><b>Tools & Platforms:</b> Nmap | Burp Suite | CTF platforms | GitHub | Nvim | Codeforces | John the Ripper </li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
