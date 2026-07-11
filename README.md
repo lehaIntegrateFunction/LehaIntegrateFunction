@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lehaIntegrateFunction/lehaIntegrateFunction/main/banner.gif" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/lehaIntegrateFunction/lehaIntegrateFunction/main/bannerforhithub.jpg" alt="Ferrari Banner" width="100%" />
 </p>
 
 <p align="center">
-  <a href="ССЫЛКА_НА_ТВОЙ_ТЕЛЕГРАМ"><img src="https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/ТВОЙ_НИК"><img src="https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:ТВОЙ_EMAIL@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="ССЫЛКА_НА_ДРУГУЮ_СОЦСЕТЬ"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -16,9 +15,9 @@
       
       ### Привет! Я Лёха 👋
       
-      **Frontend / Fullstack Developer** *(или напиши тут своё направление)*
+      **Frontend / Fullstack Разработчик**
       
-      Я занимаюсь веб-разработкой, люблю создавать минималистичные и быстрые интерфейсы. 
+      Добро пожаловать в мой профиль! Я увлекаюсь веб-разработкой, пишу код и изучаю современные технологии, чтобы создавать быстрые и красивые интерфейсы.
       
       **Мой стек технологий:**
       * **Languages:** JavaScript, TypeScript
@@ -28,7 +27,7 @@
       
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/lehaIntegrateFunction/lehaIntegrateFunction/main/planet.gif" width="100%" alt="Space Planet" />
+      <img src="https://raw.githubusercontent.com/lehaIntegrateFunction/lehaIntegrateFunction/main/bd54b0d61c8012ca4379fd512f3cf82c.jpg" width="100%" style="border-radius: 10px;" alt="Reze" />
     </td>
   </tr>
 </table>
