@@ -26,8 +26,9 @@
       <img src="photo.png" width="100%" style="border-radius: 10px;" alt="Reze" />
     </td>
   </tr>
+</table>
 
-  <div align="center">
+<div align="center">
   <table width="80%">
     <tr>
       <td bgcolor="#18181b" style="padding: 15px; border-radius: 8px; text-align: center;">
@@ -44,7 +45,6 @@
     </tr>
   </table>
 </div>
-</table>
 
 <p align="center">
   <img src="gorizont.jpg" alt="Footer Line" width="100%" height="20px" />
