@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="animationgh.gif" width="100%" height="300px" style="object-fit: cover;" />
+  <img src="photo.png" width="100%" height="300px" style="object-fit: cover;" />
 </p>
 
 <p align="center">
