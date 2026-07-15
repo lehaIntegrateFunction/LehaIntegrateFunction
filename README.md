@@ -33,7 +33,7 @@
   <img src="gorizont.jpg" alt="Footer Line" width="100%" height="20px" />
 </p>
 
-<table width="100%">
+<table width="200%">
   <tr>
     <td bgcolor="#18181b" style="padding: 15px; border-radius: 8px;">
       <p align="center" style="margin-bottom: 10px;"><b>私の知識 (Мои знания)</b></p>
