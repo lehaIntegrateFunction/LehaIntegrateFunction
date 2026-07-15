@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="photo.png" width="100%" height="400px" style="object-fit: cover;" />
+  <img src="photo.png" width="100%" height="330px" style="object-fit: cover;" />
 </p>
 
 <p align="center">
