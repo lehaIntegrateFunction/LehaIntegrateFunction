@@ -28,11 +28,6 @@
   </tr>
 </table>
 
-<br />
-<p align="center">
-  <img src="gorizont.jpg" alt="Footer Line" width="100%" height="20px" />
-</p>
-
 <div align="center">
   <table width="80%">
     <tr>
@@ -51,10 +46,9 @@
   </table>
 </div>
 
-<br />
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lehaIntegrateFunction&show_icons=true&theme=dark&hide_border=true&bg_color=18181b&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff" alt="GitHub Stats" />
+  <img src="gorizont.jpg" alt="Footer Line" width="100%" height="20px" />
 </p>
+
 
 
