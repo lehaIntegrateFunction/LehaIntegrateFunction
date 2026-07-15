@@ -32,3 +32,19 @@
 <p align="center">
   <img src="gorizont.jpg" alt="Footer Line" width="100%" height="20px" />
 </p>
+
+<table width="100%">
+  <tr>
+    <td bgcolor="#18181b" style="padding: 15px; border-radius: 8px;">
+      <p align="center" style="margin-bottom: 10px;"><b>私の知識 (Мои знания)</b></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++-18181b?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+        <img src="https://img.shields.io/badge/PYTHON-18181b?style=for-the-badge&logo=python&logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/LINUX-18181b?style=for-the-badge&logo=linux&logoColor=FCC624" />
+        <img src="https://img.shields.io/badge/BASH-18181b?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/NEOVIM-18181b?style=for-the-badge&logo=neovim&logoColor=57A143" />
+        <img src="https://img.shields.io/badge/GITHUB-18181b?style=for-the-badge&logo=github&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
