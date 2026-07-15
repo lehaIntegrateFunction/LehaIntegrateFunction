@@ -35,7 +35,7 @@
 
 <table width="200%" >
   <tr>
-    <td bgcolor="#18181b" style="padding: 50px; border-radius: 8px;">
+    <td bgcolor="#18181b" style="padding: 200px; border-radius: 8px;">
       <p align="center" style="margin-bottom: 10px;"><b>私の知識 (Мои знания)</b></p>
       <p align="center">
         <img src="https://img.shields.io/badge/C++-18181b?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
@@ -44,14 +44,13 @@
         <img src="https://img.shields.io/badge/BASH-18181b?style=for-the-badge&logo=gnu-bash&logoColor=white" />
         <img src="https://img.shields.io/badge/NEOVIM-18181b?style=for-the-badge&logo=neovim&logoColor=57A143" />
         <img src="https://img.shields.io/badge/GITHUB-18181b?style=for-the-badge&logo=github&logoColor=white" />
-
-
-        <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lehaIntegrateFunction&show_icons=true&theme=dark&hide_border=true&bg_color=18181b&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff" alt="GitHub Stats" />
-</p>
       </p>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lehaIntegrateFunction&show_icons=true&theme=dark&hide_border=true&bg_color=18181b&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff" alt="GitHub Stats" />
+</p>
 
 
