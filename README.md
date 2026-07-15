@@ -32,7 +32,7 @@
   <table width="80%">
     <tr>
       <td bgcolor="#18181b" style="padding: 15px; border-radius: 8px; text-align: center;">
-        <p style="margin-bottom: 10px;"><b>私の知識 (Мои знания)</b></p>
+        <p style="margin-bottom: 10px;" align = "center"><b>私の知識</b></p>
         <p>
           <img src="https://img.shields.io/badge/C++-18181b?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
           <img src="https://img.shields.io/badge/PYTHON-18181b?style=for-the-badge&logo=python&logoColor=3776AB" />
